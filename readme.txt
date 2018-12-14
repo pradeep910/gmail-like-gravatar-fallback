@@ -1,5 +1,5 @@
 === Gmail Like Gravatar Fallback ===
-Contributors: pradeep.sonawane, rtcamp
+Contributors: pradeep910, rtcamp
 Tags: gravatar, avatar, comments, users.
 Requires at least: 4.0
 Tested up to: 4.0
